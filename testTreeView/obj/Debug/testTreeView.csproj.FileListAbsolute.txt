@@ -1,0 +1,9 @@
+D:\исходники\2021_08\testTreeView\testTreeView\testTreeView\bin\Debug\testTreeView.exe.config
+D:\исходники\2021_08\testTreeView\testTreeView\testTreeView\bin\Debug\testTreeView.exe
+D:\исходники\2021_08\testTreeView\testTreeView\testTreeView\bin\Debug\testTreeView.pdb
+D:\исходники\2021_08\testTreeView\testTreeView\testTreeView\obj\Debug\testTreeView.csprojAssemblyReference.cache
+D:\исходники\2021_08\testTreeView\testTreeView\testTreeView\obj\Debug\testTreeView.frmMain.resources
+D:\исходники\2021_08\testTreeView\testTreeView\testTreeView\obj\Debug\testTreeView.Properties.Resources.resources
+D:\исходники\2021_08\testTreeView\testTreeView\testTreeView\obj\Debug\testTreeView.csproj.GenerateResource.cache
+D:\исходники\2021_08\testTreeView\testTreeView\testTreeView\obj\Debug\testTreeView.exe
+D:\исходники\2021_08\testTreeView\testTreeView\testTreeView\obj\Debug\testTreeView.pdb
