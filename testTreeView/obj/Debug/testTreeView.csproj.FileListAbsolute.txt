@@ -7,3 +7,12 @@ D:\исходники\2021_08\testTreeView\testTreeView\testTreeView\obj\Debug\t
 D:\исходники\2021_08\testTreeView\testTreeView\testTreeView\obj\Debug\testTreeView.csproj.GenerateResource.cache
 D:\исходники\2021_08\testTreeView\testTreeView\testTreeView\obj\Debug\testTreeView.exe
 D:\исходники\2021_08\testTreeView\testTreeView\testTreeView\obj\Debug\testTreeView.pdb
+C:\Users\user\Downloads\testTreeView\testTreeView\bin\Debug\testTreeView.exe.config
+C:\Users\user\Downloads\testTreeView\testTreeView\bin\Debug\testTreeView.exe
+C:\Users\user\Downloads\testTreeView\testTreeView\bin\Debug\testTreeView.pdb
+C:\Users\user\Downloads\testTreeView\testTreeView\obj\Debug\testTreeView.csprojAssemblyReference.cache
+C:\Users\user\Downloads\testTreeView\testTreeView\obj\Debug\testTreeView.frmMain.resources
+C:\Users\user\Downloads\testTreeView\testTreeView\obj\Debug\testTreeView.Properties.Resources.resources
+C:\Users\user\Downloads\testTreeView\testTreeView\obj\Debug\testTreeView.csproj.GenerateResource.cache
+C:\Users\user\Downloads\testTreeView\testTreeView\obj\Debug\testTreeView.exe
+C:\Users\user\Downloads\testTreeView\testTreeView\obj\Debug\testTreeView.pdb

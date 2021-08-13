@@ -27,6 +27,7 @@ namespace testTreeView
         private void btnLoad_Click(object sender, EventArgs e)
         {
             OpenFileDialog ofd = new OpenFileDialog();
+            ofd.Title = "Выбор файла формата .po";
             ofd.Filter = "Po files (*.po)|*.po";         
             if (ofd.ShowDialog() != DialogResult.OK)
                 return;
@@ -82,14 +83,7 @@ namespace testTreeView
             }
         }
 
-        
-
-
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
+       
         private void tvContext_AfterSelect(object sender, TreeViewEventArgs e)
         {
             tbMessages.Text = ((TreeView)sender).SelectedNode.Tag.ToString();

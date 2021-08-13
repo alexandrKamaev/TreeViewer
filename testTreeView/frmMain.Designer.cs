@@ -31,28 +31,33 @@
             this.tvContext = new System.Windows.Forms.TreeView();
             this.tbMessages = new System.Windows.Forms.TextBox();
             this.btnLoad = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // tvContext
             // 
+            this.tvContext.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
             this.tvContext.Location = new System.Drawing.Point(23, 13);
             this.tvContext.Name = "tvContext";
-            this.tvContext.Size = new System.Drawing.Size(156, 222);
+            this.tvContext.Size = new System.Drawing.Size(284, 326);
             this.tvContext.TabIndex = 0;
             this.tvContext.AfterSelect += new System.Windows.Forms.TreeViewEventHandler(this.tvContext_AfterSelect);
             // 
             // tbMessages
             // 
-            this.tbMessages.Location = new System.Drawing.Point(208, 13);
+            this.tbMessages.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.tbMessages.Location = new System.Drawing.Point(333, 12);
             this.tbMessages.Multiline = true;
             this.tbMessages.Name = "tbMessages";
-            this.tbMessages.Size = new System.Drawing.Size(156, 222);
+            this.tbMessages.Size = new System.Drawing.Size(225, 369);
             this.tbMessages.TabIndex = 1;
             // 
             // btnLoad
             // 
-            this.btnLoad.Location = new System.Drawing.Point(23, 242);
+            this.btnLoad.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Bottom | System.Windows.Forms.AnchorStyles.Left)));
+            this.btnLoad.Location = new System.Drawing.Point(12, 358);
             this.btnLoad.Name = "btnLoad";
             this.btnLoad.Size = new System.Drawing.Size(75, 23);
             this.btnLoad.TabIndex = 2;
@@ -60,27 +65,16 @@
             this.btnLoad.UseVisualStyleBackColor = true;
             this.btnLoad.Click += new System.EventHandler(this.btnLoad_Click);
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(23, 423);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(75, 23);
-            this.button1.TabIndex = 3;
-            this.button1.Text = "Загрузка";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
             // frmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(778, 458);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(561, 393);
             this.Controls.Add(this.btnLoad);
             this.Controls.Add(this.tbMessages);
             this.Controls.Add(this.tvContext);
             this.Name = "frmMain";
-            this.Text = "Form1";
+            this.Text = "Тестовое задание Камаев";
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -91,7 +85,6 @@
         private System.Windows.Forms.TreeView tvContext;
         private System.Windows.Forms.TextBox tbMessages;
         private System.Windows.Forms.Button btnLoad;
-        private System.Windows.Forms.Button button1;
     }
 }
 
